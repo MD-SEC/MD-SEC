@@ -1,5 +1,4 @@
-### Hi there 👋
-
+### Hi there We are MD-SEC. 👋
 <!--
 **MD-SEC/MD-SEC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=MD-SEC&show_icons=true&theme=tokyonight)
 look to the master
 
 follow the master
@@ -23,9 +23,6 @@ walk with the master
 see through the master
 
 become the master.
-
-We are MD-SEC.
-![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=MD-SEC&show_icons=true&theme=tokyonight)
 
 
 ![stars](https://komarev.com/ghpvc/?username=MD-SEC)
